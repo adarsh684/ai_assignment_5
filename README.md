@@ -1,6 +1,6 @@
 # AI Assignment 5
 
-**Name:** Adarsh Singh
+**Name:** Adarsh Singh  
 **Roll No:** SE24UCSE120
 
 ---
@@ -151,11 +151,11 @@ pip install pgmpy networkx matplotlib
 ## Running the Code
 
 ```bash
-# Search Algorithms + Tests
+# Search Algorithms
 cd search_algorithms
 python tests.py
 
-# Travel Planner (interactive)
+# Travel Planner
 python travel_planner.py
 
 # Knowledge Graph
