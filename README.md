@@ -11,7 +11,7 @@ This repository contains implementations for four AI topics: game-tree search al
 
 ---
 
-## Assignment 1: Search Algorithms
+## Search Algorithms
 
 All four algorithms are implemented in the `search_algorithms/` folder and tested on a Tic-Tac-Toe game engine.
 
@@ -51,7 +51,7 @@ MCTS           → Move: 2  | PASS
 
 ---
 
-## Assignment 2: AI Travel Planner
+## AI Travel Planner
 
 **File:** `travel_planner.py`
 
@@ -82,7 +82,7 @@ Your Interests: beach, nightlife
 
 ---
 
-## Assignment 3: Knowledge Graphs
+## Knowledge Graphs
 
 **File:** `knowledgebase.py`
 
@@ -106,7 +106,7 @@ The script also answers three queries directly from the graph:
 
 ---
 
-## Assignment 4: Bayesian Networks
+## Bayesian Networks
 
 **File:** `bayesian_networks.py`
 
